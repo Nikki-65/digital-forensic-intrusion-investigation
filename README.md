@@ -63,7 +63,7 @@ The presentation includes forensic screenshots, technical observations, interpre
 
 ## Evidence Handling
 
-Public evidence images should have potentially sensitive credentials and private-key material permanently redacted. Original evidence should be preserved separately with restricted access.
+For public distribution, sensitive credentials and private-key material were permanently redacted from the original forensic screenshots. Unredacted evidence is retained privately to preserve the integrity of the investigation.
 
 ## Skills Demonstrated
 
